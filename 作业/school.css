@@ -1,0 +1,273 @@
+*{margin:0;padding:0;}
+ul li{list-style:none;}
+a:hover{color:skyblue}
+a{color:#000000;text-decoration:none;}
+
+/*头部的开始*/
+
+
+.q1{margin-top:50px;}
+.w1{
+    width: 100%;
+    height: 90px;
+    background-color:#F3F5F7;
+    display: flex;
+}
+.t1{
+    width: 195px;
+    height: 42px;
+    margin-top:21px;
+    margin-left:160px;
+}
+.y1{
+    width: 90px;
+    height: 30px;
+
+    line-height: 30px;
+    text-align: center;
+    margin-top:25px;
+}
+.g1{
+    width: 300px;
+    height: 36px;
+    border:1px solid deepskyblue;
+    margin-top:25px;
+    margin-left:60px
+}
+.z1{margin-top:25px;}
+.a1{
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    line-height:30px;
+    margin-top:30px;
+    margin-left:10px;
+    font-size: 5px;
+}
+.s1{margin-top:35px;
+    margin-left:20px;}
+.d1{margin-top:30px;
+    margin-left:20px;
+    border-radius:33px;}
+.f1{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    line-height:30px;
+    margin-top:30px;
+    margin-left:10px;
+    font-size: 5px;}
+  /*头部的结束*/
+/*中间的开始*/
+.h1{
+    width: 100%;
+    height: 420px;
+    background-color:#1C036C;
+}
+.h2{
+    width: 1199px;
+    height: 420px;
+    margin:0 auto;
+    background-image: url("../banner.jpg")
+
+}
+.j1{
+    width: 160px;
+    height: 420px;
+    background: rgba(20,2,75,0.5);
+    margin-left:40px;
+
+}
+ul{padding-top:0px;padding-bottom: opx;padding-left:20px;padding-right:10px;}
+
+ul li a{color:white;
+}
+ul li{text-align:left;margin-top:23px;}
+.k1{
+    width: 200px;
+    height: 260px;
+
+    margin-left:900px;
+    position: absolute;
+    margin-top:-350px;
+}
+.l1{
+    width: 200px;
+    height: 50px;
+    background:#9BCEEA;
+    text-align:center;
+    line-height: 50px;}
+.l2{
+    width: 170px;
+    height: 180px;
+    background:#FFFFFF;
+    padding:15px;}
+.l3{
+    width: 170px;
+    height: 45px;
+    font-size: 13px;
+    border-bottom:1px solid black}
+.l4{
+    width: 170px;
+    height: 45px;
+    font-size: 13px;
+}
+.l5{
+    width: 170px;
+    height: 45px;
+    border:1px solid #22B0FF;
+    text-align:center;
+    line-height: 45px;
+    color:#22B0FF;
+}
+.x1{
+    width: 1000px;
+    height: 50px;
+    background:;
+    margin-left:150px;
+    margin-top: 10px;
+    box-shadow:4px 4px 10px rgba(197,199,200,0.5),-5px -5px 10px rgba(197,199,200,0.5)
+}
+.c1{
+    width: 750px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left:30px ;
+    position: absolute;}
+td{
+    width: 62px;
+    height: 30px;
+    font-size:13px;
+    line-height: 30px;
+    border-right:1px solid #A2B2C3;
+    text-align: center;}
+.v1{
+    width: 80px;
+    height: 30px;
+    font-size: 13px;
+    line-height: 30px;text-align: center;
+    margin-left:900px;
+    margin-top:10px;
+    position: absolute;
+}
+/*中间的结束*/
+/*下面的开始*/
+.b1{
+    width: 1200px;
+    height: 25px;
+
+    margin-left:100px;
+}
+.b2{
+    width: 60px;
+    height: 25px;line-height: 25px;
+    text-align: center;font-size: 13px;
+}
+.b3{
+    width: 60px;
+    height: 25px;line-height: 25px;
+    text-align: center;font-size: 13px;
+    margin-left:1140px;
+    margin-top: -25px}
+.n1{
+    width: 1200px;
+    height: 155px;
+    margin-left:100px;  display: flex;}
+.m1{
+    width: 233px;
+    height: 155px;
+    background-image: url("../pic1.png");
+    margin-right:10px;
+
+}
+.m2{
+    width: 233px;
+    height: 155px;
+    background-image: url("../pic1.png");}
+.zx1{
+    width: 1200px;
+    height: 100px;
+    margin-left: 100px}
+.cv1{
+    width: 1200px;
+    height: 50px;
+
+    display: flex;
+}
+.cv2{
+    width: 233px;
+    height: 50px;
+    margin-right: 10px;
+}
+.cv3{
+    width: 233px;
+    height: 50px;
+    margin-right:;}
+.cv4{
+    width: 1200px;
+    height: 50px;
+    display: flex;}
+.cv5{
+    width: 233px;
+    height: 50px;
+    line-height:50px;
+    margin-right:10px;
+    font-size: 13px;}
+.cv6{
+    width: 233px;
+    height: 50px;
+    line-height:50px;
+    font-size: 13px;}
+
+
+.lk1{color:red;display:inline; }
+.p01{
+    width: 1200px;
+    height: 200px;
+
+    margin-left: 100px;
+    margin-top: 20px;
+    display: flex;
+}
+.hj1{
+    width: 400px;
+    height: 200px;}
+.p02{
+    width: 195px;
+    height: 42px;
+    background-image: url("../logo.jpg");
+    margin-top: 20px}
+.p03{
+    width: 400px;
+    height: 50px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+.p04{
+    width: 150px;
+    height: 40px;
+    border:1px solid skyblue;
+    margin-top: 20px;
+    margin-left:20px;
+    text-align: center;
+    line-height: 40px;
+    color:skyblue;}
+.iu{
+    width: 500px;
+    height: 180px;
+    margin-left:335px;
+
+    margin-top:10px;
+    display: flex;
+}
+.iu1{
+    width: 120px;
+    height: 180px;
+
+    margin-left: 33px;
+    font-size: 12px;
+
+
+/*下面的结束*/
+}
+
